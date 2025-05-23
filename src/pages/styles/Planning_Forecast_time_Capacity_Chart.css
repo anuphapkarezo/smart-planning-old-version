@@ -1,0 +1,15 @@
+.chart-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .chart-item {
+    background-color: #E0FBE2;
+    padding: 10px;
+    border-radius: 8px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+  }
+  

@@ -1,0 +1,104 @@
+.background-container {
+    /* margin-top: -10rem; */
+    position: absolute;
+    top: 3rem;
+    left: 5rem;
+    /* width: 1440px; */
+    margin-right: 3rem;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    color: black;
+    width: 1640;
+  }
+
+  .bold-header-price {
+    background-color: #aed2ff;
+    /* color: blue; */
+    font-weight: bold;
+    font-size: medium;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 1px solid black;
+}
+
+.bold-header-price-fpc {
+    background-color: #FFBF61;
+    /* color: blue; */
+    font-weight: bold;
+    font-size: medium;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 1px solid black;
+}
+
+.bold-header-price-cost {
+    background-color: #FFF0D1;
+    /* color: blue; */
+    font-weight: bold;
+    font-size: medium;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 1px solid black;
+}
+
+.bold-header-price-fc {
+    background-color: lightgreen;
+    /* color: blue; */
+    font-weight: bold;
+    font-size: medium;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 1px solid black;
+}
+
+.bold-header-price-diff {
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    font-size: medium;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 1px solid black;
+}
+
+.bold-header-cal {
+    background-color: #493D9E;
+    color: white;
+    font-weight: bold;
+    font-size: medium;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 1px solid black;
+}
+
+.custom-orange-bg {
+    border: 1px solid black;
+    background-color: #FFF2AF !important;
+}
+
+.custom-blue-bg {
+    border: 1px solid black;
+    background-color: #E8F9FF !important;
+}
+
+.custom-cream-bg {
+    border: 1px solid black;
+    background-color: #FBF5E5 !important;
+}
+
+.custom-green-bg {
+    border: 1px solid black;
+    background-color: #CDFADB !important;
+}
+
+.custom-red-bg {
+    background-color: orange !important;
+    color: white; /* Optional: To ensure text is readable */
+  }
+
+.btn_hover:hover {
+    transform: translate(2px, 2px);
+}
+
+.btn_active:active {
+    transform: translate(2px, 2px);
+}
+
+
+  
+
